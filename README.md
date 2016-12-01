@@ -39,6 +39,8 @@ after export.
 
 ### Course Setup
 Within LITMOS, there are several courses geared toward the below categories:
+
+
 | *Learning Path*              | *Course Name*          |
 |------------------------------|------------------------|
 | **ActiveNet Orientation**    | Introduction           |
