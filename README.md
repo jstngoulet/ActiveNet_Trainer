@@ -39,7 +39,6 @@ after export.
 
 ### Course Setup
 Within LITMOS, there are several courses geared toward the below categories:
-
 | *Learning Path*              | *Course Name*          |
 |------------------------------|------------------------|
 | **ActiveNet Orientation**    | Introduction           |
@@ -50,7 +49,6 @@ Within LITMOS, there are several courses geared toward the below categories:
 |                              | Cash Receipts          |
 |                              | Lagoon Permits         |
 |                              | Organizations          |
-|<hr>                          | <hr>                   |
 | **When 2 Work**              | Introduction           |
 |                              | Scheduling             |
 |                              | <b>*More to Come*<b>   |
@@ -65,11 +63,9 @@ From these categories, the classes are broken down as such:
 |                              | Cash Receipts          |
 |                              | Organizations          |
 |                              | POS                    |
-|<hr>                          | <hr>                   |
 | **Concessions**              | Introduction           |
 |                              | POS                    |
 |                              | Cash Receipts          |
-|<hr>                          | <hr>                   |
 | **Lagoon Permits**           | Introduction           |
 |                              | Customers              |
 |                              | Lagoon Permits         |
