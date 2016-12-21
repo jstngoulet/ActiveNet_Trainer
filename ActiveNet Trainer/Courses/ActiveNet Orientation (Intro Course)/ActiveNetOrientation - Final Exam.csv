@@ -1,4 +1,3 @@
 QuestionText, QuestionType,Answer1,IsAnswer1Correct,Answer2,IsAnswer2Correct, Answer3,IsAnswer3Correct,Answer4,IsAnswer4Correct,Answer5,IsAnswer5Correct,Answer6,IsAnswer6Correct, Answer7,IsAnswer7Correct,Answer8,IsAnswer8Correct, Answer9,IsAnswer9Correct,Answer10,IsAnswer10Correct,ShowAnswerHint,CorrectToProceed,ShowFeedback
 "TRUE / FALSE:On ActiveNet, Blue means Trainer, Yellow means Live",MULTICHOICE,TRUE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,FALSE,FALSE,<p>Sorry Try Again..</p>
-"TRUE/ FALSE:A Help menu is availbale to you on many pages that may inform you prior to contacting further staff for assistance.",MULTICHOICE,TRUE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE,FALSE,
-"TRUE / FALSE:After a workstation is selected, directly after signin, which Banner Icon is currently selected?",MULTICHOICE,Front Desk,TRUE,Organizations,FALSE,Customers,FALSE,Admin,FALSE,,,,,,,,,,,,,FALSE,FALSE,
+"TRUE / FALSE:A Help menu is availbale to you on many pages that may inform you prior to contacting further staff for assistance.",MULTICHOICE,TRUE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE,FALSE,
