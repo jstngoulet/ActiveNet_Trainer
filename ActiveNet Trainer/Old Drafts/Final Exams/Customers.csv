@@ -1,0 +1,7 @@
+QuestionText, QuestionType,Answer1,IsAnswer1Correct,Answer2,IsAnswer2Correct, Answer3,IsAnswer3Correct,Answer4,IsAnswer4Correct,Answer5,IsAnswer5Correct,Answer6,IsAnswer6Correct, Answer7,IsAnswer7Correct,Answer8,IsAnswer8Correct, Answer9,IsAnswer9Correct,Answer10,IsAnswer10Correct,ShowAnswerHint,CorrectToProceed,ShowFeedback
+What website must clients visit in order to create an account with the City of Carlsbad?,MULTICHOICE,www.CarlsbadCa.gov,FALSE,www.Carlsbad.org,FALSE,www.CarlsbadConnect.org,TRUE,www.Carlsbad.gov,FALSE,,,,,,,,,,,,,FALSE,FALSE,
+"When adding a note to a change in a client account, what information must you provide (select all that apply)",MULTICHOICE,Your Username,TRUE,Date of Change,TRUE,Item Changed,TRUE,Reason for Change,FALSE,,,,,,,,,,,,,FALSE,FALSE,
+Who has the ability to merge client accounts (Select all that apply)?,MULTICHOICE,Activenet Administrative Personell,TRUE,You,FALSE,A supervisor,FALSE,The client,FALSE,,,,,,,,,,,,,FALSE,FALSE,
+"Without additional permissions, are you permitted to change a birthday if a birthday change was already permitted for a particular user?",MULTICHOICE,TRUE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,FALSE,FALSE,
+"TRUE / FALSE:When searching for a customer, less is sometimes more",MULTICHOICE,TRUE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE,FALSE,
+"TRUE / FALSE: If a course has already met maximum capacity, you may perform an override without additional permissions.",MULTICHOICE,TRUE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,FALSE,FALSE,
