@@ -1,4 +1,20 @@
 QuestionText, QuestionType,Answer1,IsAnswer1Correct,Answer2,IsAnswer2Correct, Answer3,IsAnswer3Correct,Answer4,IsAnswer4Correct,Answer5,IsAnswer5Correct,Answer6,IsAnswer6Correct, Answer7,IsAnswer7Correct,Answer8,IsAnswer8Correct, Answer9,IsAnswer9Correct,Answer10,IsAnswer10Correct,ShowAnswerHint,CorrectToProceed,ShowFeedback
 "TRUE / FALSE:What module do you open to print a Cash Receipts Report?",MULTICHOICE,Front Desk,FALSE,Customers,FALSE,POS,FALSE,Reports,TRUE,Admin,FALSE,,,,,,,,,,,FALSE,FALSE,<p>Sorry Try Again..</p>
 "TRUE / FALSE:You do not print the Summary Report when you balance at the end of the workday.",MULTICHOICE,TRUE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,FALSE,FALSE,
-How often must the Cash Receipt Report ,,,,,,,,,,,,,,,,,,,,,,,,
+How often must the Cash Reciept Report be run?,MULTICHOICE,,,,,,,,,,,,,,,,,,,,,,,
+"According to the Deposit Policies and Procedures, when is a RAM's signature requred to sign off on a mismatched balance",MULTICHOICE,,,,,,,,,,,,,,,,,,,,,,,
+"TRUE / FALSE:If a transaction did not occur on a single business day, does the report still need to be run?",MULTICHOICE,,,,,,,,,,,,,,,,,,,,,,,
+What information must be displayed on the report envelope (select all that apply),MULTICHOICE,Your Name,,Bag Identifier,,Subtotals for all monies,,Date of Report,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
