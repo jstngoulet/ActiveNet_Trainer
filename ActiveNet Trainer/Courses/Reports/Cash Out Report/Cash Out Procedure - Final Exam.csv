@@ -1,20 +1,8 @@
 QuestionText, QuestionType,Answer1,IsAnswer1Correct,Answer2,IsAnswer2Correct, Answer3,IsAnswer3Correct,Answer4,IsAnswer4Correct,Answer5,IsAnswer5Correct,Answer6,IsAnswer6Correct, Answer7,IsAnswer7Correct,Answer8,IsAnswer8Correct, Answer9,IsAnswer9Correct,Answer10,IsAnswer10Correct,ShowAnswerHint,CorrectToProceed,ShowFeedback
 "TRUE / FALSE:What module do you open to print a Cash Receipts Report?",MULTICHOICE,Front Desk,FALSE,Customers,FALSE,POS,FALSE,Reports,TRUE,Admin,FALSE,,,,,,,,,,,FALSE,FALSE,<p>Sorry Try Again..</p>
 "TRUE / FALSE:You do not print the Summary Report when you balance at the end of the workday.",MULTICHOICE,TRUE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,FALSE,FALSE,
-How often must the Cash Reciept Report be run?,MULTICHOICE,,,,,,,,,,,,,,,,,,,,,,,
-"According to the Deposit Policies and Procedures, when is a RAM's signature requred to sign off on a mismatched balance",MULTICHOICE,,,,,,,,,,,,,,,,,,,,,,,
-"TRUE / FALSE:If a transaction did not occur on a single business day, does the report still need to be run?",MULTICHOICE,,,,,,,,,,,,,,,,,,,,,,,
-What information must be displayed on the report envelope (select all that apply),MULTICHOICE,Your Name,,Bag Identifier,,Subtotals for all monies,,Date of Report,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
+How often must the Cash Reciept Report be run?,MULTICHOICE,Hourly,FALSE,All Business Days,TRUE,Weekly,FALSE,Monthly,FALSE,,,,,,,,,,,,,FALSE,FALSE,
+"According to the Deposit Policies and Procedures, when is a RAM's signature requred to sign off on a mismatched balance?",MULTICHOICE,On a balance difference greater than $10,FALSE,On a balance difference greater than $5,TRUE,On a balance difference greater than $20,FALSE,On a balance difference greater than $50,FALSE,,,,,,,,,,,,,FALSE,FALSE,
+"TRUE / FALSE:If a transaction did not occur on a single business day, does the report still need to be run?",MULTICHOICE,YES,TRUE,NO,FALSE,,,,,,,,,,,,,,,,,FALSE,FALSE,
+What information must be displayed on the report envelope (select all that apply),MULTICHOICE,Your Name,TRUE,Bag Identifier,TRUE,Subtotals for all monies,TRUE,Date of Report,TRUE,,,,,,,,,,,,,FALSE,FALSE,
+"When counting checks in your deposit, what items (on the check) must you verify is complete?",MULTICHOICE,The Date,TRUE,"Checks must be payable to ""City of Carlsbad""",TRUE,Signature,TRUE,The endorsement line on the back has the City's deposit account number stamped in,TRUE,,,,,,,,,,,,,FALSE,FALSE,
