@@ -37,7 +37,7 @@ on a variety of machines, and paper, without losing quality. Bookmarking remains
 after export.
 
 ###    File Location
-To be consistent with the file structure, and to reduce the amount of time used on Git, I have downloaded the latest copy into the *Community* drive on your computer. Here, you may find the last documents updated by myself and you may continue the current tasks.
+To be consistent with the file structure, and to reduce the amount of time used on Git, I have downloaded the latest copy into the *[Community](J:\ActiveNet\ActiveNet & W2W Training Documentation)* drive on your computer. Here, you may find the last documents updated by myself and you may continue the current tasks.
 
 ###    Asana Project Management
 In the duration of this project, we used Asana as our Project Management software. While helpful (and free), the project is no longer being updated on the site. For current status updates, please see the current Sr. Management Analyst.
