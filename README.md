@@ -1,6 +1,6 @@
 #     ActiveNet Trainer
 ##    City of Carlsbad: Parks & Recreation
-####  Last-Updated: November 30, 2016
+####  README Last-Updated: February 15, 2017
 --------------------------------------------------------------------------------
 ###   About the Project
 ActiveNet Trainer is a program designed to simplify the way new employees learn
@@ -9,8 +9,7 @@ locations and processing lagoon permits, ActiveNet is at the center of it all.
 
 The ActiveNet Trainer project is implemented using LITMOS training systems, and our use is handled at the domain [CityofCarlsbadParksandRec.litmos.com](https://cityofcarlsbadparksandrec.litmos.com/home).
 Users can log into our system and read documentation, complete tutorials using
-ActiveNet trainer tools and be tested on their learned skills. **All Exams must be passed
-with an 80% or better for the user to gain access**.
+ActiveNet trainer tools and be tested on their learned skills. **All exams are set so that you may only miss 1 (one) item per test. If you miss more than one item, you must recomplete it.**
 
 Along with the in-course tools, the stakeholders-new staff, have the ability to download
 the documentation for use at a later point in time - when needed.
@@ -36,6 +35,12 @@ to the set page and the user may continue. The critical feature of this, however
 to export the document to PDF form, so that users can easily view the documents as expected
 on a variety of machines, and paper, without losing quality. Bookmarking remains functional
 after export.
+
+###    File Location
+To be consistent with the file structure, and to reduce the amount of time used on Git, I have downloaded the latest copy into the *Community* drive on your computer. Here, you may find the last documents updated by myself and you may continue the current tasks.
+
+###    Asana Project Management
+In the duration of this project, we used Asana as our Project Management software. While helpful (and free), the project is no longer being updated on the site. For current status updates, please see the current Sr. Management Analyst.
 
 ### Course Setup
 Within LITMOS, there are several courses geared toward the below categories:
